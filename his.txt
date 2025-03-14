@@ -1,0 +1,30 @@
+commit 1ce0cf6bc6d40d778d197b4fed62f0574addb62d
+Author: maryem <maryemsgr19@gmail.com>
+Date:   Fri Mar 14 09:53:57 2025 +0100
+
+    modolu ajouté
+
+commit 6668e25feee6e7f136ddecc44e49289888a52d09
+Merge: 28cff97 402e9a3
+Author: maryem <maryemsgr19@gmail.com>
+Date:   Fri Mar 14 09:48:06 2025 +0100
+
+    confli resolu
+
+commit 28cff9785fc9e0697e27e32b490949e8ac4f5de5
+Author: maryem <maryemsgr19@gmail.com>
+Date:   Fri Mar 14 09:46:16 2025 +0100
+
+    ajout result
+
+commit 402e9a3872e78452021c637f66d39f01f93b8676
+Author: maryem <maryemsgr19@gmail.com>
+Date:   Fri Mar 14 09:42:39 2025 +0100
+
+    ajout div
+
+commit 3af9b8b7e65f90559b2f35ca48b16ae3e46caf42
+Author: maryem <maryemsgr19@gmail.com>
+Date:   Fri Mar 14 09:38:35 2025 +0100
+
+    ajout dana app.py
